@@ -1,0 +1,20 @@
+/* div {
+  border: 1px solid #dedede;
+} */
+body {
+  max-width: auto;
+  margin: 0 auto;
+  padding: 0 auto;
+  background-color: #cbbde2;
+}
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+#ansbutton {
+  width: 150px;
+  margin-bottom: 5px;
+  border-color: red;
+}
